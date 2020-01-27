@@ -10,6 +10,7 @@ namespace GitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Jag är den bästa programeraren som finns");
         }
     }
 }
